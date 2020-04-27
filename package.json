@@ -32,11 +32,12 @@
   "dependencies": {
     "argsarray": "0.0.1",
     "inherits": "~2.0.1",
-    "pouchdb-extend": "^0.1.2",
+    "pouchdb": "7.2.1",
     "pouchdb-ajax": "5.4.5",
-    "pouchdb-checkpointer": "5.4.5",
-    "pouchdb-generate-replication-id": "5.4.5",
-    "pouchdb-promise": "5.4.5"
+    "pouchdb-checkpointer": "7.2.1",
+    "pouchdb-extend": "^0.1.2",
+    "pouchdb-generate-replication-id": "7.2.1",
+    "pouchdb-promise": "6.4.3"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
@@ -50,7 +51,7 @@
     "mkdirp": "^0.5.1",
     "mocha": "^2.5.3",
     "phantomjs-prebuilt": "^2.1.7",
-    "pouchdb-memory": "^1.0.0",
+    "pouchdb-memory": "6.0.0",
     "sauce-connect-launcher": "^0.4.2",
     "selenium-standalone": "^4.9.1",
     "uglify-js": "^2.4.13",
